@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Refactor\Refactor\obj\Debug\net6.0\Refactors.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Refactor\Refactor\obj\Debug\net6.0\Refactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Refactor\Refactor\obj\Debug\net6.0\Refactors.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Refactor\Refactor\obj\Debug\net6.0\Refactors.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Refactor\Refactor\obj\Debug\net6.0\Refactors.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Refactor\Refactor\bin\Debug\net6.0\Refactors.exe
+C:\Users\DELL\source\repos\Refactor\Refactor\bin\Debug\net6.0\Refactors.deps.json
+C:\Users\DELL\source\repos\Refactor\Refactor\bin\Debug\net6.0\Refactors.runtimeconfig.json
+C:\Users\DELL\source\repos\Refactor\Refactor\bin\Debug\net6.0\Refactors.dll
+C:\Users\DELL\source\repos\Refactor\Refactor\bin\Debug\net6.0\Refactors.pdb
+C:\Users\DELL\source\repos\Refactor\Refactor\obj\Debug\net6.0\Refactors.dll
+C:\Users\DELL\source\repos\Refactor\Refactor\obj\Debug\net6.0\refint\Refactors.dll
+C:\Users\DELL\source\repos\Refactor\Refactor\obj\Debug\net6.0\Refactors.pdb
+C:\Users\DELL\source\repos\Refactor\Refactor\obj\Debug\net6.0\Refactors.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Refactor\Refactor\obj\Debug\net6.0\ref\Refactors.dll
